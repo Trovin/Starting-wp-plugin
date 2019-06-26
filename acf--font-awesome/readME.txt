@@ -1,0 +1,1 @@
+You must also install fontawesome lib with this plugin
