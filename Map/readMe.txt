@@ -1,0 +1,1 @@
+Using with draggabilly npm(dragg svg map inside container)
